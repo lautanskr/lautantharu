@@ -212,7 +212,7 @@
                 <a href="https://github.com/lautanskr"><i class="lab la-github"></i></a>
             </li>
         </ul>
-        <a href="#" class="theme-btn">
+        <a href="" class="theme-btn">
             <i class="las la-envelope"></i> Hire Me!
         </a>
     </div>
@@ -223,25 +223,25 @@
 
                 <div class="left-sidebar">
                     <div class="sidebar-header d-flex align-items-center justify-content-between">
-                        <img src="assets/images/logo.png" alt="Logo">
-                        <span class="designation">Framer Designer & Developer</span>
+                        <img src="assets/images/logo.png" alt="Logo" hight="36px" width="128px">
+                        <span class="designation">Web Designer & Software Developer</span>
                     </div>
                     <img class="me" src="assets/images/me.jpg" alt="Me">
-                    <h2 class="email">hello@drake.design</h2>
-                    <h2 class="address">Base in Los Angeles, CA</h2>
-                    <p class="copyright">&copy; 2022 Drake. All Rights Reserved</p>
+                    <h2 class="email">contact@lautantharu.com</h2>
+                    <h2 class="address">Base in Nepalgunj, Nepal</h2>
+                    <p class="copyright">&copy; 2023 Lautan. All Rights Reserved</p>
                     <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
                         <li>
-                            <a href="#"><i class="lab la-twitter"></i></a>
+                            <a href="https://twitter.com/TharuLautan"><i class="lab la-twitter"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="lab la-dribbble"></i></a>
+                            <a href="https://www.facebook.com/lautannn/"><i class="lab la-facebook"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="lab la-instagram"></i></a>
+                            <a href="https://www.instagram.com/ltn_sukhariya/"><i class="lab la-instagram"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="lab la-github"></i></a>
+                            <a href="https://github.com/lautanskr"><i class="lab la-github"></i></a>
                         </li>
                     </ul>
                     <a href="#" class="theme-btn">
@@ -257,9 +257,9 @@
                                 <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-home"></i> Introduce
                                 </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Say Hi from <span>Drake</span>, Framer Designer and Developer</h1>
+                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Hey <span>There!</span>👋 I'm Lautan Tharu</h1>
                             </div>
-                            <p class="scroll-animation" data-animation="fade_from_bottom">I design and code beautifully simple things and i love what i do. Just simple like that!</p>
+                            <p class="scroll-animation" data-animation="fade_from_bottom">I'm a versatile full stack developer dedicated to delivering comprehensive solutions that encompass both the front-end and back-end realms of web development. With a passion for technology and an insatiable curiosity, I bring together the art of intuitive user interfaces and the science of robust server-side programming to create seamless digital experiences.</p>
                             <a href="#portfolio" 
                                 class="go-to-project-btn scroll-to scroll-animation" 
                                 data-animation="rotate_up">
@@ -269,12 +269,12 @@
         
                             <div class="facts d-flex">
                                 <div class="left scroll-animation" data-animation="fade_from_left">
-                                    <h1>10+</h1>
+                                    <h1>3+</h1>
                                     <p>Years of <br>Experience</p>
                                 </div>
                                 <div class="right scroll-animation" data-animation="fade_from_right">
-                                    <h1>182+</h1>
-                                    <p>projects completed on <br>15 countries</p>
+                                    <h1>50+</h1>
+                                    <p>projects completed over <br>Nepal</p>
                                 </div>
                             </div>
                         </div>
@@ -288,14 +288,13 @@
                                 <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
                                     <i class="lar la-user"></i> About
                                 </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Every great design begin with<br>
+                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Every great programmer comes with
                                     an even <span>better story</span></h1>
                             </div>
-                            <p class="scroll-animation" data-animation="fade_from_bottom">Since beginning my journey as a freelance designer nearly 8 years ago, 
+                            <p class="scroll-animation" data-animation="fade_from_bottom">Since beginning my journey as a Senior Developer at G.K. Group of Company nearly 3 years ago, 
                                 I've done remote work for agencies, consulted for startups, and collaborated with 
                                 talented people to create digital products for both business and consumer use. 
-                                I'm quietly confident, naturally curious, and perpetually working on improving my 
-                                chopsone design problem at a time.</p>
+                                Later I got an opportunity to become CEO of G.K Group Of Company.</p>
                         </div>
                     </div>
                 </section>
@@ -313,25 +312,25 @@
         
                             <div class="resume-timeline">
                                 <div class="item scroll-animation" data-animation="fade_from_right">
-                                    <span class="date">2020 - Present</span>
-                                    <h2>Framer Desinger & Developer</h2>
-                                    <p>Brunodee Agency</p>
-                                    <h2>Front-End WordPress Developer</h2>
-                                    <p>Envato Market</p>
-                                </div>
-                                <div class="item scroll-animation" data-animation="fade_from_right">
-                                    <span class="date">2013 - 2019</span>
-                                    <h2>Webflow Developer & Co-Founder</h2>
-                                    <p>Designflow Studio</p>
+                                    <span class="date">2022 - Present</span>
+                                    <h2>Master in E-Governance</h2>
+                                    <p>Nepal Open University</p>
                                     <h2>Web Designer</h2>
-                                    <p>Freelance</p>
-                                    <h2>Leader Team of Marketing</h2>
-                                    <p>AHA Marketing Agency</p>
+                                    <p>Vue Js</p>
                                 </div>
                                 <div class="item scroll-animation" data-animation="fade_from_right">
-                                    <span class="date">2010 - 2013</span>
-                                    <h2>Bachelor Degree of Information Technology</h2>
-                                    <p>US RMIT University</p>
+                                    <span class="date">2016 - 2020</span>
+                                    <h2>Bachelor in Computer Science and Information Technology</h2>
+                                    <p>Banke Bageshwori Campus(TU)</p>
+                                    <h2>CEO at G.K. Group of Company</h2>
+                                    <p>G.k. Group of Company</p>
+                                    <h2>Senior Developer</h2>
+                                    <p>PHP Framework Laravel</p>
+                                </div>
+                                <div class="item scroll-animation" data-animation="fade_from_right">
+                                    <span class="date">2013 - 2016</span>
+                                    <h2>+2 at Science</h2>
+                                    <p>Mahendra Model Higher Secondary School</p>
                                 </div>
                             </div>
         
@@ -353,21 +352,21 @@
                             <div class="services-items">
                                 <div class="service-item scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-bezier-curve"></i>
-                                    <h2>Website Design</h2>
-                                    <p>I created digital products with unique ideas use Figma & Framer</p>
-                                    <span class="projects">24 Projects</span>
+                                    <h2>Web Application</h2>
+                                    <p>I created applocations with unique ideas to solve real problems.</p>
+                                    <span class="projects">35+ Projects</span>
                                 </div>
                                 <div class="service-item scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-code"></i>
-                                    <h2>Development</h2>
-                                    <p>I build website go live with Framer, Webflow or WordPress</p>
-                                    <span class="projects">126 Projects</span>
+                                    <h2> Website Design</h2>
+                                    <p>I build website go live with Bootstrap, Vue Js, Laravel, Wordpress</p>
+                                    <span class="projects">20+ Projects</span>
                                 </div>
                                 <div class="service-item scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-bezier-curve"></i>
                                     <h2>SEO/Marketing</h2>
                                     <p>Increase the traffic for your website with SEO optimized</p>
-                                    <span class="projects">8 Projects</span>
+                                    <span class="projects">30+ Projects</span>
                                 </div>
                             </div>
         
@@ -391,7 +390,7 @@
                                     <div class="skill">
                                         <div class="skill-inner">
                                             <img src="assets/images/figma.png" alt="Figma">
-                                            <h1 class="percent">92%</h1>
+                                            <h1 class="percent">60%</h1>
                                         </div>
                                         <p class="name">Figma</p>
                                     </div>
@@ -399,28 +398,20 @@
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img src="assets/images/framer.png" alt="Framer">
+                                            <img src="assets/images/bootstrap.png" alt="bootstrap" height="60px" width="60px">
                                             <h1 class="percent">85%</h1>
                                         </div>
-                                        <p class="name">Framer</p>
+                                        <p class="name">Bootstrap</p>
                                     </div>
                                 </div>
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_top">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="assets/images/webflow.png" alt="Webflow">
-                                            <h1 class="percent">80%</h1>
-                                        </div>
-                                        <p class="name">Webflow</p>
-                                    </div>
-                                </div>
+                               
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img src="assets/images/react.png" alt="React">
-                                            <h1 class="percent">90%</h1>
+                                            <img src="assets/images/vueJs.png" alt="Vue Js" height="60px" width="60px">
+                                            <h1 class="percent">75%</h1>
                                         </div>
-                                        <p class="name">React</p>
+                                        <p class="name">Vue Js</p>
                                     </div>
                                 </div>
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
@@ -436,7 +427,7 @@
                                     <div class="skill">
                                         <div class="skill-inner">
                                             <img src="assets/images/laravel.png" alt="Laravel/PHP">
-                                            <h1 class="percent">70%</h1>
+                                            <h1 class="percent">90%</h1>
                                         </div>
                                         <p class="name">Laravel/PHP</p>
                                     </div>
@@ -462,8 +453,8 @@
                                 <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="portfolio-item portfolio-full">
                                         <div class="portfolio-item-inner">
-                                            <a href="assets/images/portfolio1.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio1.jpg" alt="Portfolio">
+                                            <a href="assets/images/work1.jpg" data-lightbox="example-1">
+                                                <img src="assets/images/work1.jpg" alt="Portfolio">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -471,44 +462,44 @@
                                                     <a href="#">Figma</a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">Framer</a>
+                                                    <a href="#">Laravel</a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">WordPress</a>
+                                                    <a href="#">Bootstrap</a>
                                                 </li>
                                             </ul>
                                         </div>
-                                        <h2><a href="#">Bureau - Architecture Studio Website</a></h2>
+                                        <h2><a href="#">BAS - An NGO Website</a></h2>
                                     </div>
                                 </div>
         
                                 <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
-                                            <a href="assets/images/portfolio2.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio2.jpg" alt="Portfolio">
+                                            <a href="assets/images/work2.jpg" data-lightbox="example-1">
+                                                <img src="assets/images/work2.jpg" alt="Portfolio">
                                             </a>
 
-                                            <img src="assets/images/portfolio2.jpg" alt="Portfolio">
+                                            <img src="assets/images/work2.jpg" alt="Portfolio">
         
                                             <ul class="portfolio-categories">
                                                 <li>
-                                                    <a href="#">WordPress</a>
+                                                    <a href="#">Laravel/PHP</a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">Larevel/PHP</a>
+                                                    <a href="#">Bootstrap/CSS/JS</a>
                                                 </li>
                                             </ul>
                                         </div>
-                                        <h2><a href="#">Moonex WordPress Theme</a></h2>
+                                        <h2><a href="#">A messaging system for local government</a></h2>
                                     </div>
                                 </div>
         
                                 <div class="col-md-6 scroll-animation" data-animation="fade_from_right">
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
-                                            <a href="assets/images/portfolio3.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio3.jpg" alt="Portfolio">
+                                            <a href="assets/images/work3.jpg" data-lightbox="example-1">
+                                                <img src="assets/images/work3.jpg" alt="Portfolio">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -516,19 +507,19 @@
                                                     <a href="#">Figma</a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">Webflow</a>
+                                                    <a href="#">Laravel/PHP</a>
                                                 </li>
                                             </ul>
                                         </div>
-                                        <h2><a href="#">Taskly Dashboard</a></h2>
+                                        <h2><a href="#">A Complete Hospital Management System</a></h2>
                                     </div>
                                 </div>
         
                                 <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
-                                            <a href="assets/images/portfolio4.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio4.jpg" alt="portfolio">
+                                            <a href="assets/images/work4.jpg" data-lightbox="example-1">
+                                                <img src="assets/images/work4.jpg" alt="portfolio">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -536,30 +527,15 @@
                                                     <a href="#">Figma</a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">React</a>
+                                                    <a href="#">Laravel/PHP</a>
                                                 </li>
                                             </ul>
                                         </div>
-                                        <h2><a href="#">Hinterland - Real Estate Site Redesign</a></h2>
+                                        <h2><a href="#">Identity Card Management System for Local Government</a></h2>
                                     </div>
                                 </div>
         
-                                <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
-                                    <div class="portfolio-item portfolio-half">
-                                        <div class="portfolio-item-inner">
-                                            <a href="assets/images/portfolio5.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio5.jpg" alt="portfolio">
-                                            </a>
-        
-                                            <ul class="portfolio-categories">
-                                                <li>
-                                                    <a href="#">Framer</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <h2><a href="#">Lewis Portfolio Framer Template</a></h2>
-                                    </div>
-                                </div>
+                                
                             </div>
         
                         </div>
@@ -577,83 +553,23 @@
                                 <h1 class="scroll-animation" data-animation="fade_from_bottom">Trusted by <span>Hundered Clients</span></h1>
                             </div>
         
-                            <div class="testimonial-slider-wrap scroll-animation" data-animation="fade_from_bottom">
-                                <div class="owl-carousel testimonial-slider owl-theme">
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-inner">
-                                            <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-1.jpg" alt="portfolio">
-                                                <div class="right">
-                                                    <h3>Paublo Dybala</h3>
-                                                    <p class="designation">CEO of <span>IBM Global</span></p>
-                                                </div>
-                                            </div>
-                                            <p>“Drake - A Developer with the creativity, professional and 
-                                                master of code. Much more than what i'm expect. 
-                                                High quality product & flexiable price. Recommended!.”</p>
-        
-                                            <a href="#" class="project-btn">Project</a>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-inner">
-                                            <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-2.jpg" alt="portfolio">
-                                                <div class="right">
-                                                    <h3>Christina Morillo</h3>
-                                                    <p class="designation">Product Management of <span>Invision App Inc</span></p>
-                                                </div>
-                                            </div>
-                                            <p>“Drake was a real pleasure to work with and we look 
-                                                forward to working with him again. He's definitely the kind of 
-                                                designer that you can trust with any project from A-Z.”</p>
-        
-                                            <a href="#" class="project-btn">Project</a>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-inner">
-                                            <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-3.jpg" alt="portfolio">
-                                                <div class="right">
-                                                    <h3>Phil Foden</h3>
-                                                    <p class="designation">Director of <span>Envato LLC</span></p>
-                                                </div>
-                                            </div>
-                                            <p>“Extremely profressional and fast service!. Drake is a master
-                                                of code and he also very creative. We done 3 projects with
-                                                him and certain will continue.”</p>
-        
-                                            <a href="#" class="project-btn">Project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="testimonial-footer-nav">
-                                    <div class="testimonial-nav d-flex align-items-center">
-                                        <button class="prev"><i class="las la-angle-left"></i></button>
-                                        <div id="testimonial-slide-count"></div>
-                                        <button class="next"><i class="las la-angle-right"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-        
                             <div class="clients-logos">
                                 <h4 class="scroll-animation" data-animation="fade_from_bottom">work with 60+ brands worldwide</h4>
                                 <div class="row align-items-center">
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
-                                        <img src="assets/images/client-1.png" alt="client">
+                                        <img src="assets/images/client1.jpg" alt="client">
                                     </div>
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
-                                        <img src="assets/images/client-2.png" alt="client">
+                                        <img src="assets/images/client2.jpg" alt="client">
                                     </div>
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_top">
-                                        <img src="assets/images/client-3.png" alt="client">
+                                        <img src="assets/images/client4.jpg" alt="client">
                                     </div>
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
-                                        <img src="assets/images/client-4.png" alt="client">
+                                        <img src="assets/images/client3.jpg" alt="client">
                                     </div>
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
-                                        <img src="assets/images/client-5.png" alt="client">
+                                        <img src="assets/images/client5.jpg" alt="client">
                                     </div>
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                         <img src="assets/images/client-6.png" alt="client">
@@ -672,72 +588,6 @@
                 </section>
         
         
-                <section class="pricing-area page-section scroll-to-page" id="pricing">
-                    <div class="custom-container">
-                        <div class="pricing-content content-width">
-                            <div class="section-header">
-                                <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
-                                    <i class="las la-dollar-sign"></i> pricing
-                                </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">My <span>Pricing</span></h1>
-                            </div>
-        
-                            <div class="pricing-table-items">
-                                <div class="row">
-                                    <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
-                                        <div class="pricing-table">
-                                            <div class="pricing-table-header">
-                                                <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>basic</h4>
-                                                    <p class="text-right">Have design ready to build?<br>
-                                                        or small budget</p>
-                                                </div>
-                                                <h1>$49 <span>/ hours</span></h1>
-                                            </div>
-                                            <ul class="feature-lists">
-                                                <li>Need your wireframe</li>
-                                                <li>Design with Figma, Framer</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work in business days, no weekend.</li>
-                                                <li>Support 6 months</li>
-                                            </ul>
-                                            <a href="#" class="theme-btn">pick this package</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 scroll-animation" data-animation="fade_from_right">
-                                        <div class="pricing-table">
-                                            <div class="pricing-table-header">
-                                                <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>premium</h4>
-                                                    <p class="text-right">Not have any design?<br>
-                                                        Leave its for me</p>
-                                                </div>
-                                                <h1>$99 <span>/ hours</span></h1>
-                                            </div>
-                                            <ul class="feature-lists">
-                                                <li>Don't need wireframe or anything</li>
-                                                <li>Design with Figma, Framer from scratch</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work with both weekend</li>
-                                                <li>Support 12 months</li>
-                                                <li>Your project alway be priority</li>
-                                                <li>Customer care gifts</li>
-                                            </ul>
-                                            <a href="#" class="theme-btn">pick this package</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p class="info scroll-animation" data-animation="fade_from_bottom">
-                                    Don't find any package match with your plan!<br>
-                                    Want to setup a new tailor-made package for only you?. <a href="#">Contact Us</a>
-                                </p>
-                            </div>
-        
-                        </div>
-                    </div>
-                </section>
 
 
                 <section class="contact-area page-section scroll-content" id="contact">
@@ -749,7 +599,7 @@
                                 </h4>
                                 <h1 class="scroll-animation" data-animation="fade_from_bottom">Let's Work <span>Together!</span></h1>
                             </div>
-                            <h3 class="scroll-animation" data-animation="fade_from_bottom">hello@drake.design</h3>
+                            <h3 class="scroll-animation" data-animation="fade_from_bottom">contact@lautantharu.com</h3>
                             <p id="required-msg">* Marked fields are required to fill.</p>
 
                             <form class="contact-form scroll-animation" data-animation="fade_from_bottom" method="POST" action="https://wpriverthemes.com/HTML/drake/mailer.php">
@@ -780,9 +630,9 @@
                                             <label for="subject">subject <sup>*</sup></label>
                                             <select name="subject" id="subject">
                                                 <option value="">Select a subject</option>
-                                                <option value="subject1">Subject 1</option>
-                                                <option value="subject2">Subject 2</option>
-                                                <option value="subject3">Subject 3</option>
+                                                <option value="Web Design">Web design</option>
+                                                <option value="Web Application">Web Application</option>
+                                                <option value="Marketing">Marketing</option>
                                             </select>
                                         </div>
                                     </div>
